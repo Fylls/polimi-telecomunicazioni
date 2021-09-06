@@ -4,7 +4,7 @@
 
 <br>
 
-Notes & Materials from "Computer Netwoking" Couse at poliMI
+Notes & Materials from "Computer Netwoking" course at poliMI
 
 <br>
 
